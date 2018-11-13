@@ -5,8 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-
+//주석 추가
 	public static void main(String[] args) {
+		System.out.println("Startup.");
 		SpringApplication.run(Application.class, args);
 	}
 }
