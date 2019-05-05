@@ -13,6 +13,6 @@ public class Application {
 		
 		System.out.println("Started!!!!");
 		
-		System.out.println("push!!!");
+		System.out.println("push!");
 	}
 }
