@@ -12,5 +12,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		
 		System.out.println("Started!!!!");
+		
+		System.out.println("push!!!");
 	}
 }
